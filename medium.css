@@ -31,3 +31,7 @@
    .subtitle { font-family: "Lato", sans-serif; color: rgba(0, 0, 0, 0.54); margin: 0 0 24px 0; font-size:24px;} ::selection{background-color: #D0F4E3}
    
    .subtitled { font-family: "Lato", sans-serif; color:#000; margin: 0 0 24px 0; font-size:24px;}
+
+ .desig{
+   				font-family: "Lato", sans-serif; color:rgba(0, 0, 0, 0.54); margin: 0 0 24px 0; font-size:14px;
+   				}
