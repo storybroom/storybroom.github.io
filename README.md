@@ -1,7 +1,9 @@
 # Storybroom
 
 
-A simple tool to create texty, elegant looking carousel posts for Instagram. It allows you to tell your story in the form of beautiful looking text.
+A simple tool to create texty, elegant looking carousel posts for Instagram. 
+
+It allows you to tell your story in the form of beautiful looking simple text.
 
 Use it: [https://storybroom.github.io/](https://storybroom.github.io/)
 
